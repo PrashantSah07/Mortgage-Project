@@ -4,7 +4,7 @@ import { FaPlay } from "react-icons/fa";
 import posterImage from './assets/vishal-mission.webp'
 import Better from './components/Better'
 import Footer from './components/Footer'
-import CompanyTimeline from './components/companyTimeline';
+import CompanyTimeline from './components/CompanyTimeline.jsx';
 import { motion } from 'framer-motion';
 
 const About = () => {
